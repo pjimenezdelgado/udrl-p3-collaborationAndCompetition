@@ -1,5 +1,5 @@
-# Udacity Deep Reinforcement Learning - Project 2 - Continuous Control
-----------------------------------------------------------------------
+# Udacity Deep Reinforcement Learning - Project 3 - Collaboration and Competition
+---------------------------------------------------------------------------------
 
 This is the report for Project 3 - Collaboration and Competition from the Deep Reinforcement Learning Nanodegree of Udacity. 
 
