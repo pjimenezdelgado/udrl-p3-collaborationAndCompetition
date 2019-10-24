@@ -13,7 +13,7 @@ In order to solve the environment, the agents must get an average score of +0.5 
 
 ## Getting Started
 
-The top level of the project has been developed as a Jupyter notebook (`CTennig.ipynb`) in Python 3, thus make sure that you have a running Python and Jupyter working installation.
+The top level of the project has been developed as a Jupyter notebook (`Cennis.ipynb`) in Python 3, thus make sure that you have a running Python and Jupyter working installation.
 
 The world is provided as an Unity environment titled "Tennis", and is external to the project itself. To install the environment you will need a distribution of the ml-agents package from Unity. The location of the repo could potentially change, but at the moment of writing the link to the environment is:
 
